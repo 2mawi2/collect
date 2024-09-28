@@ -1,0 +1,42 @@
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build directory
+*.test
+/bin/
+/obj/
+
+# Vendor directory
+/vendor/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage files
+*.out
+*.cov
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Other
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
