@@ -29,8 +29,8 @@ This utility recursively scans the current directory, collects the content of fi
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/collect-files-content.git
-   cd collect-files-content
+   [git clone https://github.com/yourusername/collect-files-content.git](https://github.com/2mawi2/collect.git)
+   cd collect/
    ```
 
 3. **Build the Executable**:
